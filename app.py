@@ -36,7 +36,7 @@ def render_home_page():
   st.write("**Estudiante:** Josue Sedano Ramirez")
   st.write("**Curso:** Especialización en Python for Analytics")
   st.write("**Módulo:** Módulo 1 – Python Fundamentals")
-  st.write("**Año:** 2025")
+  st.write("**Año:** 2026")
 
   st.markdown("---")
   st.subheader("Descripción del proyecto")
