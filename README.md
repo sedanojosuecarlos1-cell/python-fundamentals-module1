@@ -31,11 +31,11 @@ Aplicación interactiva desarrollada en **Streamlit** que integra los conceptos 
 ## Enlaces
 
 - **Repositorio GitHub:** [https://github.com/sedanojosuecarlos1-cell/python-fundamentals-module1](https://github.com/sedanojosuecarlos1-cell/python-fundamentals-module1)
-- **Aplicación en Streamlit Cloud:** (colocar enlace)
+- **Aplicación en Streamlit Cloud:** [https://python-fundamentals-sedano-josue.streamlit.app](https://python-fundamentals-sedano-josue.streamlit.app)
 
 ---
 
 ## Autor
 
-**UwU**  
+**Josue Sedano Ramirez**  
 2025

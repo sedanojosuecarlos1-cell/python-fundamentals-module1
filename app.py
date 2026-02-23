@@ -1,7 +1,7 @@
 """
 =============================================================================
 Titulo: Especialización en Python for Analytics
-Autor   : XD
+Autor   : Josue Sedano Ramirez
 Año     : 2025
 Módulo  : Módulo 1 - Python Fundamentals
 =============================================================================
@@ -33,7 +33,7 @@ def render_home_page():
   st.title("Proyecto Módulo 1 – Python Fundamentals")
   st.markdown("---")
 
-  st.write("**Estudiante:** Sebita kun")
+  st.write("**Estudiante:** Josue Sedano Ramirez")
   st.write("**Curso:** Especialización en Python for Analytics")
   st.write("**Módulo:** Módulo 1 – Python Fundamentals")
   st.write("**Año:** 2025")
