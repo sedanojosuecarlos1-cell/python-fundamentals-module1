@@ -2,7 +2,7 @@
 =============================================================================
 Titulo: Especialización en Python for Analytics
 Autor   : Josue Sedano Ramirez
-Año     : 2025
+Año     : 2026
 Módulo  : Módulo 1 - Python Fundamentals
 =============================================================================
 """

@@ -38,4 +38,4 @@ Aplicación interactiva desarrollada en **Streamlit** que integra los conceptos 
 ## Autor
 
 **Josue Sedano Ramirez**  
-2025
+2026
